@@ -49,9 +49,9 @@
    * O(nlogn)：[快速排序、归并排序](https://mp.weixin.qq.com/s/G84aBHEMa5sSr36HRLmBHQ)
    * O(n)：桶排序、计数排序、计数排序（跳过就行）
 * [二分查找](https://mp.weixin.qq.com/s/JLw7m1fFGeu6j141q3zN5w)
-   * 非递归实现
-   * 递归实现
-   * 递归实现查找第一个值等于给定值的元素
+   * [非递归实现](https://github.com/Rain-Life/data-structure/blob/master/BinarySearch/implement.go)
+   * [递归实现](https://github.com/Rain-Life/data-structure/blob/master/BinarySearch/implement.go)
+   * [递归实现查找第一个值等于给定值的元素](https://github.com/Rain-Life/data-structure/blob/master/BinarySearch/implement.go)
 
 
 #### 第二阶段
