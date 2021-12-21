@@ -26,8 +26,8 @@
    * 数据移动
    * 数组扩容（数据搬移）
 * [栈](https://mp.weixin.qq.com/s/-qFPqV34Go47_nJ7dw0eTw)
-   * 顺序栈
-   * 链式栈
+   * [顺序栈](https://github.com/Rain-Life/data-structure/blob/master/Stack/arrayStack/arrayStack.go)
+   * [链式栈](https://github.com/Rain-Life/data-structure/blob/master/Stack/linkListStack/linkListStack.go)
 * [队列](https://mp.weixin.qq.com/s/-qFPqV34Go47_nJ7dw0eTw)
    * 顺序队列
    * 链式队列
@@ -52,7 +52,6 @@
    * [非递归实现](https://github.com/Rain-Life/data-structure/blob/master/BinarySearch/implement.go)
    * [递归实现](https://github.com/Rain-Life/data-structure/blob/master/BinarySearch/implement.go)
    * [递归实现查找第一个值等于给定值的元素](https://github.com/Rain-Life/data-structure/blob/master/BinarySearch/implement.go)
-
 
 #### 第二阶段
 
