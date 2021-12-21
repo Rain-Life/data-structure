@@ -34,9 +34,9 @@
    * 循环队列
 * [链表](https://mp.weixin.qq.com/s/kILIFX22Djdil7hWoGMTOQ)
    * [单链表（增删改查、遍历）](https://github.com/Rain-Life/data-structure/blob/master/LinkList/baseList.go)
-   * 循环链表
-   * 双向链表
-   * 双向循环链表
+   * [循环链表](https://github.com/Rain-Life/data-structure/blob/master/LinkList/loopLinkList/loopLinkedList.go)
+   * [双向链表](https://github.com/Rain-Life/data-structure/blob/master/LinkList/doublyLinkedList/doublyLinkedList.go)
+   * [双向循环链表](https://github.com/Rain-Life/data-structure/blob/master/LinkList/doublyLoopLinkedList/doublyLoopLinkedList.go)
    * [单链表反转](https://mp.weixin.qq.com/s/GFDEOpF7tFcKPB8Q-UNdXA)
    * [循环链表环的检测](https://mp.weixin.qq.com/s/GFDEOpF7tFcKPB8Q-UNdXA)
    * [单链表合并](https://mp.weixin.qq.com/s/GFDEOpF7tFcKPB8Q-UNdXA)
