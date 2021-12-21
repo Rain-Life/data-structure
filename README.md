@@ -2,7 +2,7 @@
 
 这里会记录作为一个小白学习数据结构的过程，会分不同的阶段来学。有时候不必死磕，慢慢来，比较快
 
-个人对数据结构和算法的认知是，**学习数据结构和算法不单单是明白它的思想，而是要知道如何把工作中实际的场景抽象成某个数据结构或算法来实现**
+>本部分主要是数据结构相关的内容，算法的内容见：
 
 #### 目标
 不是要成为算法大神、参加算法竞赛之类的
@@ -62,7 +62,7 @@
 * **[散列表](https://mp.weixin.qq.com/s/BpgaNMTH6bZxNZ0-IIQYzQ)**
    * [散列冲突](https://github.com/Rain-Life/data-structure/tree/master/hashTable)
    * 散列表扩容
-   * 实现LRU
+   * [实现LRU](https://github.com/Rain-Life/data-structure/blob/master/hashTable/hash/LRU.go)
 * **二叉树**
    * 二叉树遍历
    * 二叉查找树
