@@ -33,7 +33,7 @@
    * 链式队列
    * 循环队列
 * [链表](https://mp.weixin.qq.com/s/kILIFX22Djdil7hWoGMTOQ)
-   * 单链表（增删改查、遍历）
+   * [单链表（增删改查、遍历）](https://github.com/Rain-Life/data-structure/blob/master/LinkList/baseList.go)
    * 循环链表
    * 双向链表
    * 双向循环链表
