@@ -60,10 +60,9 @@
    * 跳表基本操作
    * 跳表动态更新
 * **[散列表](https://mp.weixin.qq.com/s/BpgaNMTH6bZxNZ0-IIQYzQ)**
-   * 散列冲突
+   * [散列冲突](https://github.com/Rain-Life/data-structure/tree/master/hashTable)
    * 散列表扩容
-   * 散列表应用
-   * 
+   * 实现LRU
 * **二叉树**
    * 二叉树遍历
    * 二叉查找树
